@@ -1,4 +1,4 @@
-<div align="center">
+<div align="contain">
   <img height="150" src="Beige Modern Elegant Personal LinkedIn Banner.png"  />
 </div>
 
