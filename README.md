@@ -1,6 +1,4 @@
-<div align="contain">
-  <img height="150" src="Beige Modern Elegant Personal LinkedIn Banner.png"  />
-</div>
+#![banner](https://github.com/DanielOsuoha/DanielOsuoha/assets/122853068/df16838b-278b-49bc-96de-6e0c58cbe59a)
 
 ###
 
