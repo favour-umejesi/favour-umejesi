@@ -1,4 +1,4 @@
-#![banner](https://github.com/DanielOsuoha/DanielOsuoha/assets/122853068/df16838b-278b-49bc-96de-6e0c58cbe59a)
+![banner](https://github.com/KingOz-stack/KingOz-stack/blob/main/Beige%20Modern%20Elegant%20Personal%20LinkedIn%20Banner.png)
 
 ###
 
