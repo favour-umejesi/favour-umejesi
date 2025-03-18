@@ -3,7 +3,7 @@
 ###
 
 ## 🌐 Socials:
-[![Email](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](umejesif@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/favour-umejesi/) 
+[![Email](https://img.shields.io/badge/Email-%23E4405F.svg?logo=Email&logoColor=white)](umejesif@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/favour-umejesi/) 
 
 ## 💻 Tech Stack:
 
