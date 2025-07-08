@@ -11,7 +11,7 @@
 ## 👩‍💻 About Me
 
 - 🔭 Exploring the intersection of **AI/ML and software development**
-- 📚 Currently learning **JavaScript** and building full-stack apps
+- 📚 Currently learning **Golang** and building full-stack apps
 - 🛠️ Passionate about using tech to solve real-world problems
 - 🎯 Applying machine learning in impactful side projects
 - ⚡ Fun fact: I enjoy **anime, manga**, and all things creative!
