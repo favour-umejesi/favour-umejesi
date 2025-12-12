@@ -3,19 +3,20 @@
 <h1 align="center">Hey there 👋, I'm Favour</h1>
 
 <p align="center">
-🚀 Aspiring AI/ML Engineer | 📚 Lifelong Learner | 💡 Creative Developer
+🚀 Aspiring Software Engineer | 📚 Lifelong Learner | 💡 Creative Developer
 </p>
 
 ---
+## 👩‍💻 What I’m Focused On
+- 🤖 Understanding **AI agents**, real-world autonomy, and how they interact with complex systems  
+- 🏗️ Learning **distributed systems** and **system design** to understand how large-scale, reliable software is built  
+- 🧠 Building projects that move beyond traditional, reactive software toward **proactive, decision-making systems**  
 
-## 👩‍💻 About Me
+## 🙏 Faith
+I’m a Christian — a follower of Christ, saved and redeemed by His freely given grace.
 
-- 🔭 Exploring the intersection of **AI/ML and software development**
-- 📚 Currently learning **Golang** and building full-stack apps
-- 🛠️ Passionate about using tech to solve real-world problems
-- 🎯 Applying machine learning in impactful side projects
-- ⚡ Fun fact: I enjoy **anime, manga**, and all things creative!
-
+## 🎨 Outside of Tech
+I’m probably watching anime, reading manga/manhwa, or annoying my friends 😄
 ---
 
 ## 🌐 Socials:
