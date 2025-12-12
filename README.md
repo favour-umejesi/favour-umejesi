@@ -6,7 +6,6 @@
 🚀 Aspiring Software Engineer | 📚 Lifelong Learner | 💡 Creative Developer
 </p>
 
----
 ## 👩‍💻 What I’m Focused On
 - 🤖 Understanding **AI agents**, real-world autonomy, and how they interact with complex systems  
 - 🏗️ Learning **distributed systems** and **system design** to understand how large-scale, reliable software is built  
@@ -17,6 +16,8 @@ I’m a Christian — a follower of Christ, saved and redeemed by His freely giv
 
 ## 🎨 Outside of Tech
 I’m probably watching anime, reading manga/manhwa, or annoying my friends 😄
+
+
 ---
 
 ## 🌐 Socials:
