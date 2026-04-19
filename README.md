@@ -2,5 +2,5 @@
 
 <h1 align="center">Hey there 👋, I'm Favour</h1>
 
-- 🚀 Currently building **@aeero**  
+- 🚀 Currently building **@https://github.com/aeerolabs*  
 - 📚 Learning **AI agents, distributed systems, and system design**
