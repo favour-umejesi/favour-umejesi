@@ -3,4 +3,4 @@
 <h1 align="center">Hey there 👋, I'm Favour</h1>
 
 - 🚀 Building [@aeerolabs](https://github.com/aeerolabs)  
-- 📚 Exploring **autonomous software**
+- 📚 Exploring how to become a **relevant engineer**
